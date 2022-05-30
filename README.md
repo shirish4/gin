@@ -1,5 +1,5 @@
 
-#Gin Web Framework
+#Gin Web Framework.
 <img align="right" src="https://raw.githubusercontent.com/gin-gonic/gin/master/logo.jpg">
 [![Build Status](https://travis-ci.org/gin-gonic/gin.svg)](https://travis-ci.org/gin-gonic/gin)
 [![Coverage Status](https://coveralls.io/repos/gin-gonic/gin/badge.svg?branch=master)](https://coveralls.io/r/gin-gonic/gin?branch=master)
