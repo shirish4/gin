@@ -8,6 +8,7 @@ preRun:
   command:
     - "go mod init"
     - "go get -d ./..."
+    - "go get -t github.com/gin-gonic/gin"
     - "go mod vendor"
 
 postMerge:
